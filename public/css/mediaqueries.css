@@ -1,0 +1,54 @@
+@media screen and (max-width: 600px) {
+   #about-me h1 {
+   		padding: 20px 0 25px 0;
+   }
+
+   .profile-img img {
+   		width: 70%;
+   		margin: auto;
+   }
+   .skill-header {
+   		width: 30%;
+   		font-size: 12px;
+   		display: inline-block;
+   		padding: 0;
+		padding-left: 16px;
+   		float: left;
+   }
+
+   .barprogress{
+   		width: 50%;
+   		display: inline-block;
+   		padding: 0;
+   		padding-left: 20px;
+   }
+
+	.proj-skills {
+		margin-bottom: 15px;
+	}
+
+   .proj-skills li {
+		margin-bottom: 20px;
+   }
+
+   footer {
+   		height: 170px;
+   }
+
+   .footer-text {
+     margin: auto;
+     width: 80%;
+     text-align: center;
+
+   }
+
+   .footer-icon {
+   	text-align: center;
+   }
+}
+
+@media screen and (max-width: 770px) {
+  .button-sub	{
+  	left: 35%;
+  }
+}
